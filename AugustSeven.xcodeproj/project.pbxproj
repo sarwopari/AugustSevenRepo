@@ -436,6 +436,7 @@
 				FA30EC101F386512004352DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FA30EC141F386512004352DB /* Build configuration list for PBXNativeTarget "AugustSevenUITests" */ = {
 			isa = XCConfigurationList;
@@ -444,6 +445,7 @@
 				FA30EC161F386512004352DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
